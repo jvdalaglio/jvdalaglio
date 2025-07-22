@@ -65,16 +65,6 @@
 
 ---
 
-### 🌟 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|--------------|
-| [**Cardápio Virtual**](https://github.com/jvdalaglio/cardapio-virtual) | Sistema whitelabel para restaurantes, com rotas únicas, customização de temas e painel admin | Next.js · Tailwind · Firebase · shadcn/ui |
-| [**Dashboard Financeira**](https://github.com/jvdalaglio/finance-dashboard) | Sistema com login, dashboard protegida, gráficos dinâmicos e filtros | Next.js · Chart.js · Redux · Firebase |
-| [**API de Playlist**](https://github.com/jvdalaglio/playlist-api) | API REST de playlists feita com Express (sem banco) | Node.js · Express |
-
----
-
 ### 📊 GitHub Stats (dark/light mode)
 
 <div align="center">
